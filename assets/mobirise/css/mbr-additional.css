@@ -1338,7 +1338,7 @@ body {
   min-height: 100vh;
 }
 .cid-r5ZBgHH7dL {
-  background-image: url("../../../assets/images/octopus-564x564.jpg");
+  background-image: url("../../../assets/images/de-octopus-header-552x389.png");
 }
 .cid-r5ZyhlWoqk {
   padding-top: 60px;
@@ -1413,9 +1413,15 @@ body {
   color: #767676;
 }
 .cid-r5ZBAInPZT {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  padding-top: 105px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/achtergrond1-796x306.png");
+}
+.cid-r5ZBAInPZT H2 {
+  color: #232323;
+}
+.cid-r5ZBAInPZT .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-r5ZDGyLYgl {
   padding-top: 90px;
@@ -1448,7 +1454,7 @@ body {
 .cid-r5ZyFqBN4r {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+  background-image: url("../../../assets/images/achtergrond2-800x373.png");
 }
 .cid-r5ZyFqBN4r .mbr-iconfont-social {
   font-size: 32px;
