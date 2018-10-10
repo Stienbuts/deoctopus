@@ -1340,6 +1340,10 @@ body {
 .cid-r5ZBgHH7dL {
   background-image: url("../../../assets/images/de-octopus-header-552x389.png");
 }
+.cid-r5ZBgHH7dL .mbr-text,
+.cid-r5ZBgHH7dL .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-r5ZyhlWoqk {
   padding-top: 60px;
   padding-bottom: 60px;
