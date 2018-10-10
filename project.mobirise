@@ -84,7 +84,8 @@
               "color": "#7f1933"
             },
             ".mbr-text P": {
-              "color": "#7f1933"
+              "color": "#cc2952",
+              "text-align": "center"
             }
           },
           "_name": "content1",
