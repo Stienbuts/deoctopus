@@ -1342,7 +1342,23 @@ body {
 }
 .cid-r5ZBgHH7dL .mbr-text,
 .cid-r5ZBgHH7dL .mbr-section-btn {
+  color: #232323;
+}
+.cid-r5ZBgHH7dL .mbr-text,
+.cid-r5ZBgHH7dL .mbr-section-btn B {
   color: #ffffff;
+}
+.cid-r66JypBwZm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r66JypBwZm .mbr-text,
+.cid-r66JypBwZm blockquote {
+  color: #767676;
+}
+.cid-r66JypBwZm .mbr-text B {
+  color: #7f1933;
 }
 .cid-r5ZyhlWoqk {
   padding-top: 60px;
