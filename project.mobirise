@@ -437,7 +437,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "fijne motoriek",
-                "active": true
+                "active": false
               },
               {
                 "tags": "seksuele ontwikkeling",
@@ -460,7 +460,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sportleerkracht-315x275-315x275.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "jongens behendiger",
+                "caption": "vitaliteit, weerstand",
                 "active": false
               },
               {
@@ -596,7 +596,7 @@
                 "active": false
               },
               {
-                "tags": "motorische ontwikkeling,persoonlijkheidsontwikkeling",
+                "tags": "motorische ontwikkeling",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -604,8 +604,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/piano-1000x667-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "oog-handcoördinatie",
-                "active": false
+                "caption": "myeline: oog-handcoördinatie",
+                "active": true
               },
               {
                 "tags": "cognitieve ontwikkeling",
@@ -644,7 +644,7 @@
                 "active": false
               },
               {
-                "tags": "lichamelijke ontwikkeling,motorische ontwikkeling",
+                "tags": "lichamelijke ontwikkeling",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
