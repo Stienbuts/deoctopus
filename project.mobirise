@@ -436,7 +436,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/fijne-motoriek2-564x649-564x649.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "fijne motoriek",
                 "active": false
               },
               {
@@ -460,7 +460,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sportleerkracht-315x275-315x275.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "jongens behendiger",
                 "active": false
               },
               {
@@ -472,7 +472,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/abstract-denken-267x400-267x400.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "associatief geheugen",
                 "active": false
               },
               {
@@ -532,7 +532,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dagplanning-304x242-304x242.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Piaget: concreet-operationeel stadium",
                 "active": false
               },
               {
@@ -548,7 +548,7 @@
                 "active": false
               },
               {
-                "tags": "cognitieve ontwikkeling,taalontwikkeling",
+                "tags": "taalontwikkeling",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -556,8 +556,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/kind-met-boek-423x251-423x251.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "metalinguïstisch bewustzijn",
+                "active": true
               },
               {
                 "tags": "sociaal-emotionele ontwikkeling,perceptuele ontwikkeling",
@@ -568,7 +568,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/differentiren-196x153-196x153.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Elkind: perceptuele exploratie",
                 "active": false
               },
               {
@@ -580,7 +580,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/piaget-355x166-355x166.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "concervatieproef: reversibel denken",
                 "active": false
               },
               {
@@ -604,7 +604,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/piano-1000x667-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "oog-handcoördinatie",
                 "active": false
               },
               {
@@ -616,7 +616,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/3-bergen-experiment-564x564-564x564.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "drie-bergenexperiment: inlevingsvermogen",
                 "active": false
               },
               {
@@ -628,7 +628,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sociaal-emotioneel-1400x682-800x389.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "sociaal-emotionele invloed",
                 "active": false
               },
               {
@@ -665,7 +665,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "taalontwikkeling",
@@ -676,7 +676,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/co-teachers-332x278-332x278.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Volwassentaal",
                 "active": false
               }
             ]
