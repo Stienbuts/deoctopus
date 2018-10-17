@@ -424,11 +424,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/octopussy-268x254-268x254.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "meer details, verhoudingen juister",
                 "active": false
               },
               {
-                "tags": "motorische ontwikkeling",
+                "tags": "motorische ontwikkeling,spelontwikkeling",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -437,7 +437,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "fijne motoriek",
-                "active": false
+                "active": true
               },
               {
                 "tags": "seksuele ontwikkeling",
@@ -448,7 +448,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/jongen-en-meisje-1200x627-800x418.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "latentiefase",
                 "active": false
               },
               {
@@ -508,7 +508,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cognitieve-ontwikkeling-275x183-275x183.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "rol van de volwassene",
                 "active": false
               },
               {
@@ -520,7 +520,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/fijne-motoriek-400x338-400x338.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "karakter, vaardigheden, groep",
                 "active": false
               },
               {
@@ -557,10 +557,10 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "metalinguïstisch bewustzijn",
-                "active": true
+                "active": false
               },
               {
-                "tags": "sociaal-emotionele ontwikkeling,perceptuele ontwikkeling",
+                "tags": "perceptuele ontwikkeling",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -628,7 +628,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sociaal-emotioneel-1400x682-800x389.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "sociaal-emotionele invloed",
+                "caption": "motorisch -&gt; sociaal-emotioneel",
                 "active": false
               },
               {
@@ -640,7 +640,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/achtergrond-1680x720-800x342.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "sociale leerschool",
                 "active": false
               },
               {
@@ -664,7 +664,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/friends-560x865-560x865.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "keuze vriend(in)",
                 "active": false
               },
               {
